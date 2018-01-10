@@ -159,7 +159,7 @@ Cloud Firestore is a flexible, scalable NoSQL cloud database that is used in thi
 
 * Delete a client
     ```typescript
-      // client.component.ts
+      // clients.component.ts
       onDeleteClick() {
         if (confirm('Are you sure to delete?')) {
           this.clientService.deleteClient(this.id);
