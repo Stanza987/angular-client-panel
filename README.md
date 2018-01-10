@@ -1,5 +1,5 @@
 # Angular ClientPanel App
-This project is the result of my code-along to the FAQ App Project in [Angular 4 Front to Back](https://www.udemy.com/angular-4-front-to-back/) by *Brad Traversy*.  He is an excellent teacher, and I highly recommend taking his course to learn Angular!
+This project is the result of my code-along to the ClientPanel App Project in [Angular 4 Front to Back](https://www.udemy.com/angular-4-front-to-back/) by *Brad Traversy*.  He is an excellent teacher, and I highly recommend taking his course to learn Angular!
 
 <p align="center">
     <img width="500" height="332" src="./src/assets/img/homepage.png"><br>
